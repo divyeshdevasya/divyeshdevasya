@@ -2,17 +2,15 @@
 
 **Software Engineer ? Backend, Full-stack & Applied ML**
 
-I build software that connects operational workflows, telemetry, and data analysis. My project work spans device-data systems, web applications, and master's research at TU Darmstadt into privacy-aware location-sequence prediction.
+My project work connects operational workflows, telemetry and data analysis. It spans web applications, device-data systems and master's research at TU Darmstadt into privacy-aware location-sequence modeling.
 
-## Selected projects
+## Selected work
 
-- **[Distributed Telemetry Backend](https://github.com/divyeshdevasya/portfolio/tree/main/Distributed-Telemetry-Backend)** ? Go ingestion, a Spring Boot API, PostgreSQL, and simulated devices.
-- **[Motorhome Booking Platform](https://github.com/divyeshdevasya/portfolio/tree/main/Motorhome-Booking-Platform)** ? Node.js booking workflows, availability rules, and SQLite persistence.
-- **[ApplyKit](https://github.com/divyeshdevasya/portfolio/tree/main/ApplyKit)** ? reusable Python application workflows with personal documents kept locally.
-- **[Full-stack demos and research](https://github.com/divyeshdevasya/portfolio)** ? barber booking applications, thesis overview, and engineering project summaries.
+- **Telemetry systems:** ingestion and monitoring with an emphasis on failure behavior.
+- **Full-stack applications:** booking, availability and operational workflows.
+- **Applied ML research:** representation design, sequence modeling and evaluation.
+- **Reusable tooling:** organizing application workflows while keeping personal documents separate.
 
-## How I work
+[Explore my project summaries](https://github.com/divyeshdevasya/portfolio)
 
-I focus on clear data flows, maintainable interfaces, and understanding failure behavior. My research interests include sequence modeling, evaluation, and the trade-off between predictive utility and privacy.
-
-[Explore my portfolio](https://github.com/divyeshdevasya/portfolio)
+Public material provides an overview of the work. Source code, datasets and detailed implementation material remain in private repositories.
