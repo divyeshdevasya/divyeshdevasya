@@ -1,16 +1,23 @@
-# Hi, I'm Divyesh Shama
+# Divyesh Shama
 
-**Software Engineer ? Backend, Full-stack & Applied ML**
+### Software Engineer | Backend, Full-stack & Applied ML
 
-My project work connects operational workflows, telemetry and data analysis. It spans web applications, device-data systems and master's research at TU Darmstadt into privacy-aware location-sequence modeling.
+I work across web applications, telemetry systems and data-oriented software. My project work includes booking workflows, operational tools, and master's research at TU Darmstadt into location-sequence modeling.
+
+**[Explore my portfolio](https://divyeshdevasya.github.io/portfolio/)** | **[Browse the case studies on GitHub](https://github.com/divyeshdevasya/portfolio)**
 
 ## Selected work
 
-- **Telemetry systems:** ingestion and monitoring with an emphasis on failure behavior.
-- **Full-stack applications:** booking, availability and operational workflows.
-- **Applied ML research:** representation design, sequence modeling and evaluation.
-- **Reusable tooling:** organizing application workflows while keeping personal documents separate.
+| Area | Projects |
+|---|---|
+| Backend systems | [Distributed telemetry](https://github.com/divyeshdevasya/portfolio/blob/main/projects/telemetry.md) |
+| Full-stack applications | [Motorhome booking](https://github.com/divyeshdevasya/portfolio/blob/main/projects/motorhome.md), [Next.js service booking](https://github.com/divyeshdevasya/portfolio/blob/main/projects/barber-next.md), [React and Python application](https://github.com/divyeshdevasya/portfolio/blob/main/projects/barber-fullstack.md) |
+| Reusable tooling | [ApplyKit](https://github.com/divyeshdevasya/portfolio/blob/main/projects/applykit.md) |
+| Applied ML | [Location-sequence thesis](https://github.com/divyeshdevasya/portfolio/blob/main/projects/thesis.md) |
+| Professional project context | [Operations and telemetry](https://github.com/divyeshdevasya/portfolio/blob/main/projects/operations.md), [Charging connectivity](https://github.com/divyeshdevasya/portfolio/blob/main/projects/charging.md) |
 
-[Explore my project summaries](https://github.com/divyeshdevasya/portfolio)
+## Engineering focus
 
-Public material provides an overview of the work. Source code, datasets and detailed implementation material remain in private repositories.
+Clear interfaces, maintainable workflows, data representation and understanding failure behavior. I am interested in the decisions around the implementation: what inputs mean, where assumptions can fail and how results should be evaluated.
+
+The portfolio contains detailed case studies and conceptual diagrams. Implementations, project data and internal material stay private.
