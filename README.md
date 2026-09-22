@@ -10,10 +10,10 @@ I work across web applications, telemetry systems and data-oriented software. My
 
 | Area | Projects |
 |---|---|
-| Backend systems | [Distributed telemetry](https://github.com/divyeshdevasya/portfolio/blob/main/projects/telemetry.md) |
+| Backend systems | [Distributed telemetry](https://github.com/divyeshdevasya/portfolio/blob/main/projects/telemetry.md), [Agent identity infrastructure](https://github.com/divyeshdevasya/portfolio/blob/main/projects/agent-identity.md) |
 | Full-stack applications | [Motorhome booking](https://github.com/divyeshdevasya/portfolio/blob/main/projects/motorhome.md), [Next.js service booking](https://github.com/divyeshdevasya/portfolio/blob/main/projects/barber-next.md), [React and Python application](https://github.com/divyeshdevasya/portfolio/blob/main/projects/barber-fullstack.md) |
 | Reusable tooling | [ApplyKit](https://github.com/divyeshdevasya/portfolio/blob/main/projects/applykit.md) |
-| Applied ML | [Location-sequence thesis](https://github.com/divyeshdevasya/portfolio/blob/main/projects/thesis.md) |
+| Applied ML | [Location-sequence thesis](https://github.com/divyeshdevasya/portfolio/blob/main/projects/thesis.md), [Multi-agent coder](https://github.com/divyeshdevasya/portfolio/blob/main/projects/multi-agent-coder.md) |
 | Professional project context | [Operations and telemetry](https://github.com/divyeshdevasya/portfolio/blob/main/projects/operations.md), [Charging connectivity](https://github.com/divyeshdevasya/portfolio/blob/main/projects/charging.md) |
 
 ## Engineering focus
