@@ -2,7 +2,7 @@
 
 **Software Engineer · Backend, Full-stack & Applied ML**
 
-I build software around data and practical workflows: telemetry systems, booking applications and developer tools. My master's research at TU Darmstadt explored location-sequence modeling.
+I build software around data and practical workflows: telemetry systems, vehicle bus analysis, booking applications and developer tools. My master's research at TU Darmstadt explored location-sequence modeling.
 
 **[Explore my portfolio →](https://divyeshdevasya.github.io/portfolio/)**
 
@@ -16,8 +16,8 @@ I build software around data and practical workflows: telemetry systems, booking
 
 ## More work
 
-[Booking applications](https://divyeshdevasya.github.io/portfolio/#applications) · [Agent systems](https://divyeshdevasya.github.io/portfolio/#experiments) · [Professional experience](https://divyeshdevasya.github.io/portfolio/#professional)
+[Applications and tools](https://divyeshdevasya.github.io/portfolio/#applications) · [Agent systems](https://divyeshdevasya.github.io/portfolio/#experiments) · [Professional experience](https://divyeshdevasya.github.io/portfolio/#professional)
 
 My engineering focus is clear interfaces, maintainable workflows and understanding how systems behave when assumptions fail. Each case study explains its scope, decisions and limitations.
 
-The public portfolio contains ten case studies and conceptual diagrams. Application source, project data and internal material remain private.
+The public portfolio contains eleven case studies and conceptual diagrams. Application source, project data and internal material remain private.
